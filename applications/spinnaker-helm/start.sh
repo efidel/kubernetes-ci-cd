@@ -4,7 +4,7 @@ minikube delete
 
 rm -rf ~/.minikube
 
-minikube start --vm-driver kvm --memory 8000 --cpus 4 --disk-size 40g
+minikube start --vm-driver kvm --memory 2000 --cpus 1 --disk-size 10g
 
 
 
